@@ -8,6 +8,7 @@
     "build": "vite build"
   },
   "dependencies": {
+    "paper": "^0.12.17",
     "perfect-freehand": "^1.2.0"
   },
   "devDependencies": {
